@@ -1,0 +1,10 @@
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\bin\Debug\ProxyGenW9.exe.config
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\bin\Debug\ProxyGenW9.exe
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\bin\Debug\ProxyGenW9.pdb
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\obj\Debug\ProxyGenW9 Scrape.csprojResolveAssemblyReference.cache
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\obj\Debug\ProxyGenW9.ProxyGen_Main.resources
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\obj\Debug\ProxyGenW9.Properties.Resources.resources
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\obj\Debug\ProxyGenW9 Scrape.csproj.GenerateResource.Cache
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\obj\Debug\ProxyGenW9 Scrape.csproj.CoreCompileInputs.cache
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\obj\Debug\ProxyGenW9.exe
+F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\obj\Debug\ProxyGenW9.pdb
