@@ -9,7 +9,7 @@ found 818 proxies
 Proxies sent to be checked https://proxyunique.com
 Scraping: http://rootjazz.com/proxies/proxies.txt
 
-found 674 proxies
+found 681 proxies
 Proxies sent to be checked http://rootjazz.com/proxies/proxies.txt
 Scraping: http://proxyape.com/
 
@@ -29,7 +29,7 @@ found 8453 proxies
 Proxies sent to be checked http://sslproxies24.blogspot.com/feeds/posts/default
 Scraping: http://newfreshproxies-24.blogspot.com/feeds/posts/default
 
-found 9089 proxies
+found 10165 proxies
 Proxies sent to be checked http://newfreshproxies-24.blogspot.com/feeds/posts/default
 Scraping: http://aliveproxy.com/anonymous-proxy-list
 
@@ -449,7 +449,10 @@ found 5116 proxies
 Proxies sent to be checked http://blog.donews.com/kemon/feed/
 Scraping: http://blog.i.ua/user/616175/
 
-found 675 proxies
+ScrapeLink_Error site: http://blog.i.ua/user/616175/
+System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at ProxyGenW9.ProxyGenW9.ScrapeLink(String s) in F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\ProxyGenW9.cs:line 1473
 Proxies sent to be checked http://blog.i.ua/user/616175/
 Scraping: http://blog.sina.com.cn/rss/5075816935.xml
 
@@ -641,11 +644,17 @@ found 20 proxies
 Proxies sent to be checked http://atomintersoft.com/products/alive-proxy/socks5-list
 Scraping: http://maxiproxies.com/03-03-2014-new-fresh-public-proxy-list-example-maxiproxies-com
 
-found 116 proxies
+ScrapeLink_Error site: http://maxiproxies.com/03-03-2014-new-fresh-public-proxy-list-example-maxiproxies-com
+System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at ProxyGenW9.ProxyGenW9.ScrapeLink(String s) in F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\ProxyGenW9.cs:line 1473
 Proxies sent to be checked http://maxiproxies.com/03-03-2014-new-fresh-public-proxy-list-example-maxiproxies-com
 Scraping: http://maxiproxies.com/03-10-2014-new-fresh-public-proxy-list-example-maxiproxies-com
 
-found 116 proxies
+ScrapeLink_Error site: http://maxiproxies.com/03-10-2014-new-fresh-public-proxy-list-example-maxiproxies-com
+System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at ProxyGenW9.ProxyGenW9.ScrapeLink(String s) in F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\ProxyGenW9.cs:line 1473
 Proxies sent to be checked http://maxiproxies.com/03-10-2014-new-fresh-public-proxy-list-example-maxiproxies-com
 Scraping: http://topproxys.blogspot.com/2014/03/best-high-annonymous-proxy-list-13-mar.html
 
@@ -1073,11 +1082,11 @@ found 794 proxies
 Proxies sent to be checked http://inav.chat.ru/ftp/proxy.txt
 Scraping: http://johnstudio0.tripod.com/index1.htm
 
-found 19 proxies
+found 18 proxies
 Proxies sent to be checked http://johnstudio0.tripod.com/index1.htm
 Scraping: http://members.tripod.com/burn77/proxies.html
 
-found 21 proxies
+found 20 proxies
 Proxies sent to be checked http://members.tripod.com/burn77/proxies.html
 Scraping: http://members.tripod.com/twotux/Proxylist.txt
 
@@ -1141,7 +1150,7 @@ found 11 proxies
 Proxies sent to be checked http://aliveproxy.com/transparent-proxy-list
 Scraping: http://angelfire.com/ab6/black/trojan/proxy.htm
 
-found 283 proxies
+found 282 proxies
 Proxies sent to be checked http://angelfire.com/ab6/black/trojan/proxy.htm
 Scraping: http://angelfire.com/ar3/teru/proxy.html
 
@@ -1249,7 +1258,7 @@ found 33 proxies
 Proxies sent to be checked http://proxy-ip-list.com/http://proxy-ip-list.com
 Scraping: http://proxy-ip-list.com/download/free-usa-proxy-ip.txt
 
-found 16 proxies
+found 17 proxies
 Proxies sent to be checked http://proxy-ip-list.com/download/free-usa-proxy-ip.txt
 Scraping: http://thebigproxylist.com/blog
 
@@ -1465,7 +1474,10 @@ found 27 proxies
 Proxies sent to be checked http://freewmz.at.ua/index/0-10
 Scraping: http://cool-proxy.ru/tag/anonimnye
 
-found 60 proxies
+ScrapeLink_Error site: http://cool-proxy.ru/tag/anonimnye
+System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at ProxyGenW9.ProxyGenW9.ScrapeLink(String s) in F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\ProxyGenW9.cs:line 1473
 Proxies sent to be checked http://cool-proxy.ru/tag/anonimnye
 Scraping: http://robtex.com/dns/ts9999.net.html
 
@@ -2903,7 +2915,7 @@ Null source http://www.gatherproxy.com/proxylist/port/8123
 Proxies sent to be checked http://www.gatherproxy.com/proxylist/port/8123
 Scraping: http://cn-proxy.com/
 
-found 25 proxies
+found 23 proxies
 Proxies sent to be checked http://cn-proxy.com/
 Scraping: http://proxy3e.blogspot.com/feeds/posts/default?alt=rss
 
@@ -4365,7 +4377,7 @@ found 14008 proxies
 Proxies sent to be checked http://proxysky4you.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://www.simpleproxy.ru/core/ac5b1e653c4b5ca310929cd8d24cba12.txt
 
-found 714 proxies
+found 698 proxies
 Proxies sent to be checked http://www.simpleproxy.ru/core/ac5b1e653c4b5ca310929cd8d24cba12.txt
 Scraping: http://red-proxy.blogspot.com/feeds/posts/default?alt=rss
 
@@ -4920,7 +4932,7 @@ found 2812 proxies
 Proxies sent to be checked http://hidemyassproxies.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://www.blackhatprotools.org/forumdisplay.php?18-Proxies
 
-found 14 proxies
+found 10 proxies
 Proxies sent to be checked http://www.blackhatprotools.org/forumdisplay.php?18-Proxies
 Scraping: http://sock.kteen.net/
 
@@ -4972,7 +4984,7 @@ found 199 proxies
 Proxies sent to be checked http://softwareflows.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://proxy-ip-list.com/download/free-uk-proxy-list.txt
 
-found 5 proxies
+found 10 proxies
 Proxies sent to be checked http://proxy-ip-list.com/download/free-uk-proxy-list.txt
 Scraping: http://frmkeyfi.blogspot.com/feeds/posts/default?alt=rss
 
@@ -5085,7 +5097,7 @@ found 1553 proxies
 Proxies sent to be checked http://hotproxylist.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://marcosbl.com/lab/proxies/
 
-found 498 proxies
+found 506 proxies
 Proxies sent to be checked http://marcosbl.com/lab/proxies/
 Scraping: http://share-socks.blogspot.com/feeds/posts/default?alt=rss
 

@@ -5,11 +5,11 @@ found 20 proxies
 Proxies sent to be checked https://www.proxydocker.com/en/proxylist/
 Scraping: https://proxyunique.com
 
-found 818 proxies
+found 715 proxies
 Proxies sent to be checked https://proxyunique.com
 Scraping: http://rootjazz.com/proxies/proxies.txt
 
-found 674 proxies
+found 681 proxies
 Proxies sent to be checked http://rootjazz.com/proxies/proxies.txt
 Scraping: http://proxyape.com/
 
@@ -17,19 +17,19 @@ found 5572 proxies
 Proxies sent to be checked http://proxyape.com/
 Scraping: http://sslproxies24.blogspot.in/feeds/posts/default
 
-found 8453 proxies
+found 5665 proxies
 Proxies sent to be checked http://sslproxies24.blogspot.in/feeds/posts/default
 Scraping: http://www.live-socks.net/feeds/posts/default
 
-found 270 proxies
+found 252 proxies
 Proxies sent to be checked http://www.live-socks.net/feeds/posts/default
 Scraping: http://sslproxies24.blogspot.com/feeds/posts/default
 
-found 8453 proxies
+found 5665 proxies
 Proxies sent to be checked http://sslproxies24.blogspot.com/feeds/posts/default
 Scraping: http://newfreshproxies-24.blogspot.com/feeds/posts/default
 
-found 9089 proxies
+found 9037 proxies
 Proxies sent to be checked http://newfreshproxies-24.blogspot.com/feeds/posts/default
 Scraping: http://aliveproxy.com/anonymous-proxy-list
 
@@ -953,7 +953,8 @@ found 351 proxies
 Proxies sent to be checked http://proxy.centerblog.net
 Scraping: http://proxyfree.ru/
 
-found 10 proxies
+found 0 proxies
+Null source http://proxyfree.ru/
 Proxies sent to be checked http://proxyfree.ru/
 Scraping: http://proxysearcher.sourceforge.net/ProxyList.php%3Ftype%3Dhttp
 
@@ -969,7 +970,7 @@ found 1000 proxies
 Proxies sent to be checked http://proxysearcher.sourceforge.net/ProxyList.php?type=http&filtered=true
 Scraping: http://proxysearcher.sourceforge.net/ProxyList.php?type=socks&filtered=true
 
-found 890 proxies
+found 1000 proxies
 Proxies sent to be checked http://proxysearcher.sourceforge.net/ProxyList.php?type=socks&filtered=true
 Scraping: http://sock5us.blogspot.com
 
@@ -1077,7 +1078,7 @@ found 19 proxies
 Proxies sent to be checked http://johnstudio0.tripod.com/index1.htm
 Scraping: http://members.tripod.com/burn77/proxies.html
 
-found 21 proxies
+found 20 proxies
 Proxies sent to be checked http://members.tripod.com/burn77/proxies.html
 Scraping: http://members.tripod.com/twotux/Proxylist.txt
 
@@ -1245,11 +1246,11 @@ found 747 proxies
 Proxies sent to be checked http://proxy-hunter.blogspot.com/2011/09/27-09-11-l1l2l3-http-proxies-743.html
 Scraping: http://proxy-ip-list.com/http://proxy-ip-list.com
 
-found 33 proxies
+found 21 proxies
 Proxies sent to be checked http://proxy-ip-list.com/http://proxy-ip-list.com
 Scraping: http://proxy-ip-list.com/download/free-usa-proxy-ip.txt
 
-found 16 proxies
+found 14 proxies
 Proxies sent to be checked http://proxy-ip-list.com/download/free-usa-proxy-ip.txt
 Scraping: http://thebigproxylist.com/blog
 
@@ -1405,7 +1406,7 @@ found 30 proxies
 Proxies sent to be checked http://proxz.com/proxy_list_jp_0.html
 Scraping: http://proxz.com/proxy_list_jp_0_ext.html
 
-found 35 proxies
+found 37 proxies
 Proxies sent to be checked http://proxz.com/proxy_list_jp_0_ext.html
 Scraping: http://proxz.com/proxy_list_port_std_0.html
 
@@ -1665,7 +1666,7 @@ found 30 proxies
 Proxies sent to be checked http://www.proxz.com
 Scraping: http://proxy-ip-list.com/
 
-found 33 proxies
+found 21 proxies
 Proxies sent to be checked http://proxy-ip-list.com/
 Scraping: http://proxyipchecker.com/s/209.160.40.246%3A1863+ip/
 
@@ -2605,7 +2606,7 @@ found 43 proxies
 Proxies sent to be checked http://pastebin.com/dRN0H3Wb
 Scraping: http://proxy-ip-list.com/free-usa-proxy-ip.html
 
-found 19 proxies
+found 23 proxies
 Proxies sent to be checked http://proxy-ip-list.com/free-usa-proxy-ip.html
 Scraping: http://freeproxyserverus.blogspot.com/search?updated-max=2013-04-16T18:23:00-07:00&max-results=5
 
@@ -2878,11 +2879,14 @@ found 12891 proxies
 Proxies sent to be checked http://link-im.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://www.emailtry.com/socks
 
-found 23 proxies
+ScrapeLink_Error site: http://www.emailtry.com/socks
+System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at ProxyGenW9.ProxyGenW9.ScrapeLink(String s) in F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\ProxyGenW9.cs:line 1478
 Proxies sent to be checked http://www.emailtry.com/socks
 Scraping: http://proxy-ip-list.com/download/proxy-list-port-3128.txt
 
-found 5 proxies
+found 9 proxies
 Proxies sent to be checked http://proxy-ip-list.com/download/proxy-list-port-3128.txt
 Scraping: http://ipportable.blogspot.com/feeds/posts/default?alt=rss
 
@@ -3652,7 +3656,8 @@ found 41262 proxies
 Proxies sent to be checked http://www.proxyfreedaily.com/feeds/posts/default?alt=rss
 Scraping: http://www.google.com/search?q=%2B%E2%80%9D:8080%E2%80%B3+%2B%E2%80%9D:3128%E2%80%B3+%2B%E2%80%9D:80%E2%80%B3&hl=en&tbo=1&source=lnt&tbs=qdr:d&sa=X&ei=QYesTJyrB8nLswal6q2uBA&ved=0CAcQpwU
 
-found 7 proxies
+found 0 proxies
+Null source http://www.google.com/search?q=%2B%E2%80%9D:8080%E2%80%B3+%2B%E2%80%9D:3128%E2%80%B3+%2B%E2%80%9D:80%E2%80%B3&hl=en&tbo=1&source=lnt&tbs=qdr:d&sa=X&ei=QYesTJyrB8nLswal6q2uBA&ved=0CAcQpwU
 Proxies sent to be checked http://www.google.com/search?q=%2B%E2%80%9D:8080%E2%80%B3+%2B%E2%80%9D:3128%E2%80%B3+%2B%E2%80%9D:80%E2%80%B3&hl=en&tbo=1&source=lnt&tbs=qdr:d&sa=X&ei=QYesTJyrB8nLswal6q2uBA&ved=0CAcQpwU
 Scraping: http://onlyfreeproxy.blogspot.com/feeds/posts/default?alt=rss
 
@@ -3676,7 +3681,10 @@ found 317 proxies
 Proxies sent to be checked http://vietnamproxies.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://www.emailtry.com/index/1
 
-found 24 proxies
+ScrapeLink_Error site: http://www.emailtry.com/index/1
+System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at ProxyGenW9.ProxyGenW9.ScrapeLink(String s) in F:\Workdesk\GITHUB\ProxyGenerator\ProxyGenW9\ProxyGenW9.cs:line 1478
 Proxies sent to be checked http://www.emailtry.com/index/1
 Scraping: http://lukacyber.blogspot.com/feeds/posts/default?alt=rss
 
@@ -3756,7 +3764,7 @@ found 2664 proxies
 Proxies sent to be checked http://indonesiaproxies.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://www.httptunnel.ge/ProxyListForFree.aspx
 
-found 400 proxies
+found 390 proxies
 Proxies sent to be checked http://www.httptunnel.ge/ProxyListForFree.aspx
 Scraping: http://pr0xytofree.blogspot.com/feeds/posts/default?alt=rss
 
@@ -3776,7 +3784,7 @@ found 1948 proxies
 Proxies sent to be checked http://dailyproxylistfree.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://sslproxies24.blogspot.com/feeds/posts/default?alt=rss
 
-found 8427 proxies
+found 5639 proxies
 Proxies sent to be checked http://sslproxies24.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://cqcounter.com/?sts,l20all,,,,anonfirm
 
@@ -4365,7 +4373,7 @@ found 14008 proxies
 Proxies sent to be checked http://proxysky4you.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://www.simpleproxy.ru/core/ac5b1e653c4b5ca310929cd8d24cba12.txt
 
-found 714 proxies
+found 716 proxies
 Proxies sent to be checked http://www.simpleproxy.ru/core/ac5b1e653c4b5ca310929cd8d24cba12.txt
 Scraping: http://red-proxy.blogspot.com/feeds/posts/default?alt=rss
 
@@ -4522,7 +4530,7 @@ found 22613 proxies
 Proxies sent to be checked http://megaproxy.blogspot.com/feeds/posts/default
 Scraping: http://www.live-socks.net/feeds/posts/default?alt=rss
 
-found 244 proxies
+found 226 proxies
 Proxies sent to be checked http://www.live-socks.net/feeds/posts/default?alt=rss
 Scraping: http://socksproxyfree.blogspot.com/feeds/posts/default?alt=rss
 
@@ -4920,7 +4928,7 @@ found 2812 proxies
 Proxies sent to be checked http://hidemyassproxies.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://www.blackhatprotools.org/forumdisplay.php?18-Proxies
 
-found 14 proxies
+found 10 proxies
 Proxies sent to be checked http://www.blackhatprotools.org/forumdisplay.php?18-Proxies
 Scraping: http://sock.kteen.net/
 
@@ -4972,7 +4980,7 @@ found 199 proxies
 Proxies sent to be checked http://softwareflows.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://proxy-ip-list.com/download/free-uk-proxy-list.txt
 
-found 5 proxies
+found 11 proxies
 Proxies sent to be checked http://proxy-ip-list.com/download/free-uk-proxy-list.txt
 Scraping: http://frmkeyfi.blogspot.com/feeds/posts/default?alt=rss
 
@@ -5005,7 +5013,7 @@ found 287 proxies
 Proxies sent to be checked http://gentospasport-usbmultiboot.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks&filtered=true
 
-found 890 proxies
+found 1000 proxies
 Proxies sent to be checked http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks&filtered=true
 Scraping: http://zoproxy.blogspot.com/feeds/posts/default?alt=rss
 
@@ -5085,7 +5093,7 @@ found 1553 proxies
 Proxies sent to be checked http://hotproxylist.blogspot.com/feeds/posts/default?alt=rss
 Scraping: http://marcosbl.com/lab/proxies/
 
-found 498 proxies
+found 470 proxies
 Proxies sent to be checked http://marcosbl.com/lab/proxies/
 Scraping: http://share-socks.blogspot.com/feeds/posts/default?alt=rss
 
